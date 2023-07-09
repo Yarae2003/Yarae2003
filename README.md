@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yarae2003
-- 👀 I’m interested in Flutter and Graphic design and more
+- 👀 I’m interested in Flutter, Graphic design and more
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me Twitter: @Yarae2003
 
